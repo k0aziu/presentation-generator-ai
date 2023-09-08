@@ -2,10 +2,9 @@
 
 This Python script utilizes the gpt4free library to generate presentations on any topic. You can customize the number of slides and the presentation topic, and the script will create presentation content using ai from you.com.
 
-##
+## gpt4free:
 
-gpt4free:
-[https://github.com/xtekky/gpt4free]{https://github.com/xtekky/gpt4free}
+https://github.com/xtekky/gpt4free
 
 ## Instructions
 
