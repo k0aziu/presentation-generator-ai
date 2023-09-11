@@ -10,7 +10,7 @@ https://github.com/xtekky/gpt4free
 
 1. Ensure you have the gpt4free, colorama library and Python 3.x installed.
 
-2. Run the script and follow the steps below:
+2. Run the script:
 
    ```python
    python main.py
